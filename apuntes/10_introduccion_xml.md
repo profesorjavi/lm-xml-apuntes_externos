@@ -86,7 +86,7 @@ Veamos primero un trozo de código HTML:
     </ul>
 
 <figure>
-<img src="/imagenes/10_introduccion_xml/01_ejemplo_html.png"
+<img src="./imagenes/10_introduccion_xml/01_ejemplo_html.png"
 class="align-center"
 alt="/imagenes/10_introduccion_xml/01_ejemplo_html.png" />
 <figcaption>HTML interpretado por el navegador.</figcaption>
@@ -117,7 +117,7 @@ Ahora veamos un trozo de código XML:
     </comedor>
 
 <figure>
-<img src="/imagenes/10_introduccion_xml/02_ejemplo_xml.png"
+<img src="./imagenes/10_introduccion_xml/02_ejemplo_xml.png"
 class="align-center"
 alt="/imagenes/10_introduccion_xml/02_ejemplo_xml.png" />
 <figcaption>XML cargado en un navegador, sin hoja de

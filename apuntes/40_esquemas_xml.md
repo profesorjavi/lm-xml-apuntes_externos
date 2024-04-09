@@ -68,7 +68,7 @@ Elementos complejos
 Elementos con hijos y/o atributos.
 
 <figure>
-<img src="/imagenes/40_esquemas_xml/personal_interno.png"
+<img src="./imagenes/40_esquemas_xml/personal_interno.png"
 class="align-center"
 alt="/imagenes/40_esquemas_xml/personal_interno.png" />
 <figcaption>Jerarquía de ejemplo.</figcaption>

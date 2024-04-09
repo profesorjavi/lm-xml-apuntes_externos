@@ -135,7 +135,7 @@ están entrecomillados:
     </nota>
 
 <figure>
-<img src="/imagenes/20_sintaxis_xml/02_entrecomillados_mal_xml.png"
+<img src="./imagenes/20_sintaxis_xml/02_entrecomillados_mal_xml.png"
 class="align-center"
 alt="/imagenes/20_sintaxis_xml/02_entrecomillados_mal_xml.png" />
 <figcaption>XML con entrecomillado incorrecto.</figcaption>
@@ -153,7 +153,7 @@ atributos de la etiqueta `<nota>` están delimitados por comillas:
     </nota>
 
 <figure>
-<img src="/imagenes/20_sintaxis_xml/03_entrecomillados_bien_xml.png"
+<img src="./imagenes/20_sintaxis_xml/03_entrecomillados_bien_xml.png"
 class="align-center"
 alt="/imagenes/20_sintaxis_xml/03_entrecomillados_bien_xml.png" />
 <figcaption>XML con entrecomillado correcto.</figcaption>
